@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<users>
+  <user id="1">
+    <name>New Moon</name>
+    <pname>1st phase</pname>
+    
+  </user>
+  <user id="2">
+    <name>Waxing Cresent</name>
+    <pname>2nd Phase</pname>
+   
+  </user>
+  <user id="3">
+    <name>Third Quater</name>
+    <pname>3rd Phase</pname>
+    
+  </user>
+  <user id="4">
+    <name>Waning Gibbous</name>
+    <pname>4th Phase</pname>
+    <points>3</points>
+ 
+  </users>
